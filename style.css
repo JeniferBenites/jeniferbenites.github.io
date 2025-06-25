@@ -36,11 +36,6 @@ h1 {
   font-size: 60px;
 }
 
-titulo2 {
-
-}
-
-
 .subtitulo {
   color: #ffffff; 
   font-size: 40px;      
@@ -55,7 +50,7 @@ titulo2 {
 }
 
 .descrição {
-    color:rgb(0, 0, 0)
+    color:rgb(0, 0, 0);
     font-size: 40px;
     font-weight: bold;
 }
